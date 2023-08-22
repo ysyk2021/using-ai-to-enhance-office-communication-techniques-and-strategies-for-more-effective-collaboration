@@ -1,4 +1,4 @@
-# Reducing Bias and Miscommunication with AI-Assisted Communication Training
+
 
 ## Introduction
 
