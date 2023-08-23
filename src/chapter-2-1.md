@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has the potential to significantly improve communication in the workplace. In this chapter, we will explore two key AI technologies that can enhance communication: natural language processing (NLP) for automated language translation and chatbots.
 
 Natural Language Processing (NLP) for Automated Language Translation

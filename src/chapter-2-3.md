@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has the potential to significantly improve communication in the workplace. In this chapter, we will explore one key AI technology that can enhance communication: sentiment analysis for emotional tone and engagement.
 
 Understanding Sentiment Analysis

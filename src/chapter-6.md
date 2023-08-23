@@ -1,5 +1,4 @@
 
-
 As organizations increasingly turn to AI-powered tools to enhance office communication and collaboration, it is important to evaluate the impact of these technologies. In this chapter, we will explore the tradeoffs of AI-enhanced communication quality and the importance of balancing automation with human interaction and expertise.
 
 Understanding the Tradeoffs of AI-Enhanced Communication Quality
