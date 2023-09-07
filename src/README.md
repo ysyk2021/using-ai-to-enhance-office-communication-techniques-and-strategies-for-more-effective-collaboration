@@ -10,3 +10,7 @@ We also explore emerging trends in AI for office communication, such as cloud-ba
 So, let's dive in and discover the exciting world of AI for office communication. By learning how to leverage the latest technology to optimize your workflow and achieve your goals, you can enhance your communication skills and achieve greater success in your career.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
