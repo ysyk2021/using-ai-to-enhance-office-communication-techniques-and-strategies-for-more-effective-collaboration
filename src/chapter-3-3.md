@@ -1,5 +1,4 @@
-Chapter 7: Creating a Customized AI Roadmap for Communication Enhancement
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the process of developing a tailored AI roadmap to enhance office communication techniques and strategies for more effective collaboration. A well-structured AI roadmap serves as a guiding framework for organizations to harness artificial intelligence effectively and achieve their communication enhancement goals.
 

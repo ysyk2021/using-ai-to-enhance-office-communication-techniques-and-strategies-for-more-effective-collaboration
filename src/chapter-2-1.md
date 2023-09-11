@@ -1,5 +1,4 @@
-Chapter 3: Natural Language Processing (NLP) for Automated Language Translation and Chatbots
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative capabilities of Natural Language Processing (NLP) in the context of using AI to enhance office communication techniques and strategies for more effective collaboration. NLP plays a pivotal role in breaking down language barriers and improving communication efficiency through automated language translation and chatbot technologies.
 

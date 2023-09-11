@@ -1,5 +1,4 @@
-Chapter 5: Balancing Automation with Human Interaction and Expertise
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspect of striking a balance between automation and human interaction in the context of using AI to enhance office communication techniques and strategies for more effective collaboration. As organizations increasingly adopt AI technologies to streamline processes and improve efficiency, it becomes essential to recognize the value of human expertise and interpersonal interactions.
 

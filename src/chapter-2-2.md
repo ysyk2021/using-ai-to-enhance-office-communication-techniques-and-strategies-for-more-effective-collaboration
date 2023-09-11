@@ -1,5 +1,4 @@
-Chapter 6: Machine Learning for Predictive Analytics and Decision-Making
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the realm of machine learning and its profound impact on enhancing office communication techniques and strategies for more effective collaboration. Machine learning empowers organizations to leverage data-driven insights for predictive analytics and informed decision-making, revolutionizing the way businesses operate.
 

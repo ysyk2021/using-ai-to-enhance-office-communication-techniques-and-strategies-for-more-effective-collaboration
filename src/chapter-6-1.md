@@ -1,5 +1,4 @@
-Chapter 7: Understanding the Tradeoffs of AI-Enhanced Communication Quality
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the intricate dynamics surrounding the quality of communication when augmented by AI technologies. As organizations seek to leverage AI to enhance office communication techniques and strategies for more effective collaboration, it is essential to comprehend the tradeoffs involved in implementing AI-driven solutions.
 

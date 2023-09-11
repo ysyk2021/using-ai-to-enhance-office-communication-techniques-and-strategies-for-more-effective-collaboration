@@ -1,5 +1,4 @@
-Chapter 5: Selecting AI Tools and Implementing Them into Communication Workflows
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of selecting appropriate AI tools and seamlessly integrating them into communication workflows. The strategic selection and effective implementation of AI technologies can significantly enhance office communication techniques and strategies, ultimately leading to more effective collaboration.
 

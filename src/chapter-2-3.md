@@ -1,5 +1,4 @@
-Chapter 4: Sentiment Analysis for Emotional Tone and Engagement
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the fascinating world of sentiment analysis and its pivotal role in using AI to enhance office communication techniques and strategies for more effective collaboration. Sentiment analysis, also known as opinion mining, allows organizations to gain insights into the emotional tone of communication and engagement within their teams, clients, and partners.
 

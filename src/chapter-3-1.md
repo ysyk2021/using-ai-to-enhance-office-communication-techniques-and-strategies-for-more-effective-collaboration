@@ -1,5 +1,4 @@
-Chapter 3: Identifying Communication Processes That Can Be Improved with AI
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various communication processes within organizations that can be enhanced through the strategic integration of artificial intelligence (AI). Identifying these processes is a crucial first step toward leveraging AI to improve office communication techniques and strategies, ultimately leading to more effective collaboration.
 
